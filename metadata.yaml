@@ -1,0 +1,34 @@
+_repo: The-Lives-of-the-Fathers-Martyrs-and-Principal-SaintsJanuary-February-March_20450
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Butler, Alban
+    birthdate: 1711
+    deathdate: 1773
+    gutenberg_agent_id: '9306'
+    url: http://www.gutenberg.org/2009/agents/9306
+description: Butler's great work, The Lives of the Fathers, Martyrs and Other Principal
+  Saints ("Butler's Lives"), the result of thirty years study (first published in
+  four volumes, London, 1756-1759), has passed through many editions and translations
+  (best edition, including valuable notes, Dublin, 12 vols. 1779-1780). It is a popular
+  and compendious reproduction of the Acta Sanctorum, exhibiting great industry and
+  research, and is in all respects the best compendium of Acta in English.- Excerpted
+  from Wikipedia, the free encyclopedia.
+gutenberg_issued: '2007-01-26'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '20450'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'BX'
+- !lcsh 'Christian saints -- Biography'
+- !lcsh 'Christian patron saints -- Biography'
+title: The Lives of the Fathers, Martyrs, and Other Principal Saints. January, February,
+  March
+url: http://www.gutenberg.org/ebooks/20450
